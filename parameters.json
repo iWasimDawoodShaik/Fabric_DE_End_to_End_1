@@ -1,0 +1,26 @@
+[
+    {
+        "p_link": "Trans_dim",
+        "p_table": "trans"
+    },
+    {
+        "p_link": "customer_dim",
+        "p_table": "customer"
+    },
+    {
+        "p_link": "fact_table",
+        "p_table": "fact"
+    },
+    {
+        "p_link": "item_dim",
+        "p_table": "item"
+    },
+    {
+        "p_link": "store_dim",
+        "p_table": "store"
+    },
+    {
+        "p_link": "time_dim",
+        "p_table": "time"
+    }
+]
